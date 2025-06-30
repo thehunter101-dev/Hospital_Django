@@ -3,6 +3,8 @@ Proyecto de complejidad media de un sistema de gestion de un hospital, este proy
 > [!NOTE]
 > Este Proyecto esta en desarrolo ademas que esta desarrollado con fines educativos Uwu
 ## Estructura de carpetas
+
+``` text
 .
 ├── pyproject.toml *Dependencias y configuracion de proyecto*
 ├── README.md *Readme del proyecto*
@@ -14,4 +16,5 @@ Proyecto de complejidad media de un sistema de gestion de un hospital, este proy
 │   │   ├── urls.py
 │   │   └── wsgi.py
 │   └── manage.py
+```
 
